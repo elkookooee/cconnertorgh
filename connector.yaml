@@ -12,3 +12,4 @@ services:
     volumes:
       - /home/vol2:/usr/local/shnlp
     network_mode: host
+    teste
