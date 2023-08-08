@@ -10,5 +10,5 @@ services:
       - SKYHIGH_PORT=8443
       - ACCEPT_TERMS=YES
     volumes:
-      - /home/vol2:/usr/local/shnlp
+      - /home/vol3:/usr/local/shnlp
     network_mode: host
